@@ -1,6 +1,6 @@
 # Weather Forecast Application
 
-Website showing graphs and maps to represent data received from OpenWeatherMap.com
+Website showing graphs and maps to represent data received from OpenWeatherMap.com.
 Used React.js and Node.js.
 
 
